@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Queue1 {
+public class Queue {
     public static void main(String[] args) {
         Queue<String> Q = new LinkedList<>();
         Q.add("H");

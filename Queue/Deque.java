@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class deque {
+public class Deque {
     public static void main(String[] args) {
         Deque<String> deque = new LinkedList<String>();
 

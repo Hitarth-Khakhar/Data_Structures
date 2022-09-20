@@ -1,4 +1,4 @@
-public class Singlylinkedlist {
+public class SinglyLinkedList {
 
     static class Node {
         int data;

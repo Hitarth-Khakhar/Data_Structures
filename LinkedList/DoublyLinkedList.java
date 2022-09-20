@@ -1,6 +1,6 @@
 
 
-public class doublylinkedlist {
+public class DoublyLinkedList{
 
     static class Node {
         int data;

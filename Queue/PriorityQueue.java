@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Priorityqueue {
+public class PriorityQueue {
 
     public static void main(String args[]) {
         PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
